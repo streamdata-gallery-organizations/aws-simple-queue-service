@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=ChangeMessageVisibility&k=1:
+  /?Action=ChangeMessageVisibility:
     get:
       summary: ' Change Message Visibility '
       description: Changes the visibility timeout of a specified message in a queue
