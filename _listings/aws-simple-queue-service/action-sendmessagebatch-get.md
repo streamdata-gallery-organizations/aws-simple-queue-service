@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=SendMessageBatch&k=1:
+  /?Action=SendMessageBatch:
     get:
       summary: ' Send Message Batch '
       description: Delivers up to ten messages to the specified queue
