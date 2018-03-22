@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=SendMessage&k=1:
+  /?Action=SendMessage:
     get:
       summary: ' Send Message '
       description: Delivers a message to the specified queue
