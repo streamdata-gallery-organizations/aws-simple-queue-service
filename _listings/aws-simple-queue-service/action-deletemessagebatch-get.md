@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DeleteMessageBatch&k=1:
+  /?Action=DeleteMessageBatch:
     get:
       summary: ' Delete Message Batch '
       description: Deletes up to ten messages from the specified queue
