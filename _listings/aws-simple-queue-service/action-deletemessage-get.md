@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=DeleteMessage&k=1:
+  /?Action=DeleteMessage:
     get:
       summary: ' Delete Message '
       description: Deletes the specified message from the specified queue
