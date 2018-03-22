@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=ChangeMessageVisibilityBatch&k=1:
+  /?Action=ChangeMessageVisibilityBatch:
     get:
       summary: ' Change Message Visibility Batch '
       description: Changes the visibility timeout of multiple messages
