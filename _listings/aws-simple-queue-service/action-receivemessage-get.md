@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=ReceiveMessage&k=1:
+  /?Action=ReceiveMessage:
     get:
       summary: ' Receive Message '
       description: Retrieves one or more messages (up to 10), from the specified queue
