@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: aws-simple-queue-service.api.streamdata.gallery
+title: Streamdata Gallery AWS Simple Queue Service
+url: aws-simple-queue-service.streamdata.gallery
 tag: AWS Simple Queue Service
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: aws-simple-queue-service
 github_branch: master
 collections:
