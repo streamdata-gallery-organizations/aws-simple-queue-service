@@ -12,10 +12,10 @@ description: Amazon Simple Queue Service (SQS) is a fast, reliable, scalable, fu
   what you use.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Application-Services_AmazonSQS.png
 x-kinRank: "10"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: AWS Simple Queue Service
-created: "2018-05-24"
-modified: "2018-05-24"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/aws-simple-queue-service/master/_listings/aws-simple-queue-service/apis.md
 specificationVersion: "0.14"
 apis:
